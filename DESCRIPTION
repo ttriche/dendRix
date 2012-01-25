@@ -1,0 +1,9 @@
+Package: dendRix
+Type: Package
+Title: Port of DENDRIX (Vandin, Upfal, & Raphael, Genome Res, 2011) to R
+Version: 0.2
+Date: 2012-01-13
+Author: Tim Triche, Jr. (with copious assistance from the original authors)
+Maintainer: Tim Triche, Jr. <tim.triche@gmail.com>
+Description: DENDRIX (DE Novo DRIver mutations) searches for nearly mutually exclusive sets of mutations (or, more generally, aberrations) that drive cancers or other genetic diseases, based on the notion that functionally interchangeable mutations rarely if ever overlap -- one is typically sufficient to advance clonal selection and promote the progression of disease.  Dendrix seeks to find these.
+License: Artistic
